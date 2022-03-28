@@ -47,3 +47,12 @@
     left: 0;
   }
 }
+@media screen and (max-width:414px) {
+  .wrapper .dynamic-txts{
+      height: 80px;
+      line-height: 80px;
+  }
+  .dynamic-txts li{
+      font-size: 20px;
+  }
+}
