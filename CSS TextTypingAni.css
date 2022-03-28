@@ -47,12 +47,12 @@
     left: 0;
   }
 }
-@media screen and (min-width:414px) {
+@media screen and (max-width:416px)  {
   .wrapper .dynamic-txts{
       height: 80px;
       line-height: 80px;
   }
   .dynamic-txts li{
-      font-size: 20px;
+      font-size: 10px;
   }
 }
